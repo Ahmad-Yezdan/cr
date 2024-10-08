@@ -1,16 +1,9 @@
-# cr
+# CR
 
-A new Flutter project.
+CR App is a dynamic 2-screen application designed with both light and dark modes to seamlessly adapt to your system settings. Built using Flutter, this app is tailored specifically for CRs and GRs at universities.
 
-## Getting Started
+Task Screen: Effortlessly manage your responsibilities by adding tasks with details such as the teacher’s name, task description, and deadline. You’ll receive daily notifications at your chosen time, reminding you until the task is marked as completed.
 
-This project is a starting point for a Flutter application.
+Messages Screen: Stay on top of communication by scheduling messages for specific groups. Enter the group names, message content, and delivery time to receive timely notifications, ensuring you never forget to convey important information.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Both tasks and messages are fully editable and can be marked as completed once done.
